@@ -1,0 +1,12 @@
+com\stackroute\unittest\matchers\MatchersDemoTest.class
+com\stackroute\unittest\mockito\MockCreationAnnotationTest.class
+com\stackroute\unittest\matchers\CollectionMatchersTest.class
+com\stackroute\unittest\mockito\MockitoVerificationTest.class
+com\stackroute\unittest\mockito\MockCreationTest.class
+com\stackroute\unittest\mockito\ProductServiceTest.class
+com\stackroute\unittest\mockito\MockitoStubbingTest.class
+com\stackroute\unittest\parameterized\EmailIDCreatorTest.class
+com\stackroute\unittest\parameterized\EmailIdValidatorTest.class
+com\stackroute\unittest\matchers\NumberMatchersTest.class
+com\stackroute\unittest\matchers\TextComparisionMatchersTest.class
+com\stackroute\unittest\quickstart\AppTest.class
